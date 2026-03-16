@@ -22,6 +22,7 @@ class cat(Animal):
 
 d = Dog()
 d.speak()
+
 🧠 How the Program Works
 1️⃣ Parent Class
 class Animal:
