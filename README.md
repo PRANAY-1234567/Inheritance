@@ -117,3 +117,6 @@ How inheritance works in Python
 How child classes reuse methods from parent classes
 
 The role of base and derived classes
+
+<img width="534" height="679" alt="image" src="https://github.com/user-attachments/assets/e1b3ea82-f207-4eb1-8768-68592d71a7fd" />
+
